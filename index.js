@@ -25,11 +25,7 @@ async function getAnimeList() {
 
 }
 
-<<<<<<< HEAD
-//1111  3333
-=======
-//1111
 // 2222
->>>>>>> hot-fix
+
 
 getAnimeList()
