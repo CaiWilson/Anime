@@ -24,4 +24,7 @@ async function getAnimeList() {
     // })
 
 }
+
+
+
 getAnimeList()
